@@ -1,7 +1,7 @@
 {
-  "name": "node-js-jwt-auth-postgresql",
+  "name": "node-js",
   "version": "1.0.0",
-  "description": "Node.js Demo for JWT Authentication with PostgreSQL",
+  "description": "Node.js Assement",
   "main": "server.js",
   "scripts": {
     "start": "NODE_ENV=production node  ./src/server.js",
